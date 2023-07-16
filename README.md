@@ -1,8 +1,22 @@
-# Aluroni - React Project
+### [4. Aluroni - React e Typescript](https://github.com/graziellecafe/aluroni/tree/master) 
+Is a project about the menu of a restaurant called Aluroni
+                                                                                                                                                
+### Project status:
+Done!
+
+### Stacks for this project
+<div>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TS and typescript"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/> 
+<div>
+
+### Project 
 ![](tela-aluroni.png)
 
-# Getting Started with Create React App
-
+------------------------------
+### How to start 
+Download the repository and click npm i and npm start 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
